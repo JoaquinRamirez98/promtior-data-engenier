@@ -76,7 +76,7 @@ Para ejecutar este proyecto, necesitarás:
 Sigue estos pasos para poner en marcha el proyecto:
 
 1.  **Clona este repositorio:**
-    git clone https://github.com/JoaquinRamirez98/data-challenge-S-P500-wikipedia.git
+    git clone https://github.com/JoaquinRamirez98/promtior-data-engenier.git
     cd data-challenge-S-P500-wikipedia
     
 
