@@ -1,0 +1,6 @@
+pandas
+requests
+beautifulsoup4
+numpy # Aunque es dependencia de pandas, es bueno listarla si la usas directamente
+# openpyxl # Si fueras a leer/escribir Excel, no necesario aquí para PowerBI con SQLite
+# sqlalchemy # Si usaras to_sql con BDs más complejas, no estrictamente para SQLite con pandas
