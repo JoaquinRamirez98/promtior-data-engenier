@@ -40,7 +40,7 @@ Este pipeline de datos cumple con el ciclo ETL (Extract, Transform, Load) y visu
 
 El proyecto está organizado de la siguiente manera para promover la modularidad y claridad:
 
-data-challenge-S-P500-wikipedia/ # Nombre de tu repo
+data-challenge-S-P500-wikipedia/
 ├── data/
 │ └── sp500_companies.db # Base de datos SQLite generada
 ├── doc/

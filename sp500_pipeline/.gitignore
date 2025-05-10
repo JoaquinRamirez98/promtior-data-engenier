@@ -147,9 +147,7 @@ cython_debug/
 # Si NO quieres versionarlo (recomendado para bases de datos grandes o que cambian mucho):
 # data/*.db
 # data/*.db-journal
-# Si SÍ quieres versionarlo para este desafío (para que los evaluadores lo tengan):
-# Entonces NO añadas las dos líneas de arriba.
-# Asegúrate de añadir el archivo .db generado al staging de git con `git add data/sp500_companies.db` si lo quieres incluir.
+
 
 # Archivos de Power BI temporales o de copia de seguridad
 # (Power BI a veces crea estos al abrir o trabajar con .pbix)

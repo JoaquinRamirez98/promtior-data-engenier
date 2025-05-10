@@ -1,4 +1,3 @@
-# src/main_pipeline.py
 import logging
 
 from . import config

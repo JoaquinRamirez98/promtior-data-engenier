@@ -1,4 +1,3 @@
-# src/data_extraction.py
 import requests
 from bs4 import BeautifulSoup, Tag
 import pandas as pd
